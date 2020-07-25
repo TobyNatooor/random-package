@@ -1,10 +1,13 @@
-## Returns a random int
+# Random number
+### This is typescript
+
+### Returns a random int
 
 ```bash
 npm install @tobynatooor/random
 ```
 
-## How to use
+### How to use
 
 ```js
 import randomInt from '@tobynatooor/random'
