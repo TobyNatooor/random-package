@@ -1,6 +1,6 @@
 {
   "name": "@tobynatooor/random",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "random helper ",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,8 @@
       "url": "https://github.com/TobyNatooor/random-package"
   },
   "scripts": {
-    "test": "node ./testOne/testTwo/test.js"
+    "test": "node ./testOne/testTwo/test.js",
+    "build": "tsc index.ts -d"
   },
   "type": "module",
   "keywords": [
