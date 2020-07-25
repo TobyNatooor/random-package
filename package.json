@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "random helper ",
   "main": "index.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/TobyNatooor/random-package"
+  },
   "scripts": {
     "test": "node ./testOne/testTwo/test.js"
   },

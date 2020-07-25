@@ -1,4 +1,5 @@
 
 export default x => Math.floor(Math.random() * x)
 
-export const test = () => console.log('test')
+export const testOne = () => console.log('testOne')
+export const testTwo = () => console.log('testTwo')
