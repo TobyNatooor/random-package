@@ -1,0 +1,15 @@
+{
+  "name": "@tobias/random",
+  "version": "1.0.0",
+  "description": "random helper ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./testOne/testTwo/test.js"
+  },
+  "type": "module",
+  "keywords": [
+    "random"
+  ],
+  "author": "",
+  "license": "ISC"
+}
